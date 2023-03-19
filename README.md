@@ -6,4 +6,4 @@ Due to university policy, we are not able to publish the source code publicly at
 
 ## Ablation study
 
-![Here is an ablation study](table1.png)
+![Here is an ablation study](tablevf.png)
